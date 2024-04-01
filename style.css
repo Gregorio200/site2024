@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    border: none;
+    font-family: 'Press Start 2P', cursive, arial, sans-serif;
+    color: rgb(0, 131, 131);
+    text-align: center;
+}
+body{
+    background: radial-gradient(black, navy);
+}
+.pgs{
+    background: radial-gradient(aquamarine, navy); 
+}
+a{
+    color: rgb(0, 131, 131);
+    text-decoration: none;
+}
+p{
+    color: blue;
+}
+li{
+    color: blue;
+}
+h2{
+    color: blue;
+    font-size: 20px;
+}
+h1{
+    font-size: 30px;
+}
